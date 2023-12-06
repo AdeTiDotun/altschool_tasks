@@ -5,22 +5,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Logsitics</title>
   </head>
+  <link rel="stylesheet" href="style.css" />
+  <!-- fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Roboto&display=swap"
+    rel="stylesheet"
+  />
   <body>
     <!-- Header -->
 
     <header>
-      <div>
+      <!-- Brand Logo -->
+      <div id="brand-logo">
         <a href="index.html">3D LOGISTICS</a>
       </div>
-      <nav>
-        <div>
-            <label for="dispach-dropdown"></label>
-          <ul>
-            <li>Order a Dispatch Rider</li>
-            <li>Locate Our Partner</li>
-          </ul>
-        </div>
-      </nav>
+      <!-- Nav bar side details -->
+      <div>
+        <!-- Nav options -->
+        <nav>
+          <!-- drop-down -->
+          <div class="dropdown">
+            <button class="dropdown-button">Ride Hub</button>
+            <div class="dropdown-options">
+              <a href="#">Become a Rider</a>
+              <a href="#">Hire a Ride</a>
+              <a href="#">Customer Care</a>
+            </div>
+          </div>
+
+          <!-- Nav bar details -->
+          <div class="navbar-details">
+            <ul>
+              <li>Order a Dispatch Rider</li>
+              <li>Locate Our Partner</li>
+            </ul>
+          </div>
+        </nav>
+      </div>
     </header>
   </body>
 </html>
