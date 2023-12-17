@@ -66,6 +66,7 @@
 .div-1 {
     width: 238px;
     height: 72px;
+    margin: 20px;
 }
 
 .div-1 label {
@@ -81,3 +82,37 @@
     height: 48px;
     width: 238px;
 }
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+}
+
+/* div 2 */
+
+.div-2 {
+    width: 500px;
+    height: 72px;
+    margin: 20px;
+}
+
+.div-2 label {
+    height: 16px;
+}
+
+.div-2 input {
+    width: 500px;
+    height: 48px;
+}
+
+.div-2 select {
+    width: 500px;
+    height: 48px;
+}
+
+#button {
+    color: white;
+    background-color: rgb(80, 192, 236);
+}
+
+
+/* div 3 */
