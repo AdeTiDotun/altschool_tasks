@@ -2,12 +2,11 @@
 /* General wrapper */
 .wrapper {
     position: absolute;
-    background-color: #FFFFFF;
+    background-color: #F3F8FF;
     width: 1440px;
     height: 840px;
     display: grid;
     grid-template-columns: 2fr 2fr;
-    margin: auto;
 }
 
 /* session-1 */
@@ -53,8 +52,32 @@
    width: 580px;
    height: 679px;
    margin-top: 81px;
+   border-radius: 6px;
+   background-color: #FFFFFF;
 }
 
-.divname {
-    display: flex;
+
+#div {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+
+/* div 1 */
+.div-1 {
+    width: 238px;
+    height: 72px;
+}
+
+.div-1 label {
+    height: 16px;
+}
+
+.div-1 input {
+    height: 48px;
+    width: 238px;
+}
+
+.div-1 select {
+    height: 48px;
+    width: 238px;
 }
