@@ -46,3 +46,15 @@
     margin-bottom: 0;
     color: #737373;
 }
+
+/* Section-2 */
+
+.section-2 {
+   width: 580px;
+   height: 679px;
+   margin-top: 81px;
+}
+
+.divname {
+    display: flex;
+}
