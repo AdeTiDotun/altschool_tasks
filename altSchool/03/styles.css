@@ -1,0 +1,36 @@
+
+/* Navbar session */
+.wrapper {
+    width: 1440px;
+    height: 1170px;
+    background-color: #F3F8FF;
+    margin: auto;
+}
+
+.navbar {
+    width: 1360px;
+    height: 73px;
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-logo {
+    width: 200px;
+    height: 39px;
+}
+
+.navlist {
+    width: 476px;
+    height: 40px;
+}
+
+
+ ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+}
