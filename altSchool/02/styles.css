@@ -1,4 +1,12 @@
+body {
+    margin: 50px 50px;
+}
 
+body p {
+    margin: 0;
+    color: #2EC4B6;
+    font-family:"Brown", sans-serif ;
+}
 /* General wrapper */
 .wrapper {
     position: absolute;
@@ -56,22 +64,27 @@
    background-color: #FFFFFF;
 }
 
-
+.div-total {
+    width: 500px;
+    margin: auto;
+}
 #div {
     display: grid;
     grid-template-columns: 2fr 2fr;
+    column-gap: 20px;
 }
 
 /* div 1 */
 .div-1 {
     width: 238px;
     height: 72px;
-    margin: 20px;
+    margin: 20px auto;
 }
 
 .div-1 label {
     height: 16px;
 }
+
 
 .div-1 input {
     height: 48px;
@@ -86,13 +99,12 @@
 input[type="date"]::-webkit-calendar-picker-indicator {
     display: none;
 }
-
 /* div 2 */
 
 .div-2 {
     width: 500px;
     height: 72px;
-    margin: 20px;
+    margin: 20px auto;
 }
 
 .div-2 label {
@@ -111,8 +123,24 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 
 #button {
     color: white;
-    background-color: rgb(80, 192, 236);
+    background-color: #2EC4B6;
 }
 
+.section-2 p {
+    width: 463px;
+    height: 25;
+    margin: 0 auto;
+    padding: 0;
+    font-family: "sofia pro", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+}
 
-/* div 3 */
+.section-2 p a {
+    font-family: "sofia pro", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: #2EC4B6;
+}
