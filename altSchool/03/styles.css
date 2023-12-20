@@ -3,7 +3,7 @@
 .wrapper {
     width: 1440px;
     height: 1170px;
-    background-color: #F3F8FF;
+    background-color:  #EDEFF2;
     margin: auto;
 }
 
@@ -105,17 +105,66 @@
     line-height: 16.8px;
     color: #1D2C3C;
 }
+
+.grid-1 input {
+    width: 220px;
+    height: 36px;
+    background-color: #EDEFF2;
+}
 .grid-2 {
     width: 227px;
     height: 60px;
 }
 
+.grid-2 label {
+    width: 187px;
+    height: 17px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.8px;
+    color: #1D2C3C;
+}
 
+.grid-2 input {
+    width: 220px;
+    height: 36px;
+    background-color: #EDEFF2;
+}
 
+.first-second {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid-3 {
+    width: 370px;
+    height: 60px;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+}
+
+.grid-3 label {
+    width: 187px;
+    height: 17px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.8px;
+    color: #1D2C3C;
+}
+
+.grid-3 input {
+    width: 364px;
+    height: 36px;
+    background-color: #EDEFF2;
+}
 
 /* section 2 */
 .section-2 {
     width: 312px;
     height: 795px;
 }
+
+
 
