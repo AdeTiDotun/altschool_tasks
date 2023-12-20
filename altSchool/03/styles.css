@@ -88,6 +88,27 @@
     border-radius: 100%;
 }
 
+/* first second session */
+
+.grid-1 {
+    width: 227px;
+    height: 60px;
+    margin-left: 2.5rem;
+}
+
+.grid-1 label {
+    width: 187px;
+    height: 17px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.8px;
+    color: #1D2C3C;
+}
+.grid-2 {
+    width: 227px;
+    height: 60px;
+}
 
 
 
