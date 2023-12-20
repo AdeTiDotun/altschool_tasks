@@ -45,3 +45,34 @@
     margin-top: 85px;
     background-color: white;
 }
+
+/* section 1 */
+.section-1 {
+    width: 580px;
+    height: 795px;
+}
+/* checkout */
+.checkout {
+    height: 80px;
+}
+
+.checkout p {
+    width: 161px;
+    height: 54px;
+    margin: 2.5rem 0 0 2.5rem;
+    font-family: "lato",sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+
+
+
+
+/* section 2 */
+.section-2 {
+    width: 312px;
+    height: 795px;
+}
+
