@@ -83,6 +83,11 @@
     letter-spacing: -0.16px;
 }
 
+.info p span {
+    border: 0.8px solid;
+    border-radius: 100%;
+}
+
 
 
 
