@@ -176,6 +176,28 @@
     letter-spacing: -0.16px;
 }
 
+.payment-session p span {
+    border: 1px solid;
+    border-radius: 100%;
+}
+
+.payment-card {
+    width: 483px;
+    height: 60px;
+    margin-left: 2.5rem;
+}
+
+.payment-card label {
+    width: 187px;
+    height: 17px; 
+}
+
+
+.payment-card input {
+    width: 475px;
+    height: 36px;
+}
+
 /* section 2 */
 .section-2 {
     width: 312px;
