@@ -7,6 +7,11 @@
     margin: auto;
 }
 
+hr {
+    width: 580px;
+    height: 2px;
+    opacity: 20.05%;
+}
 .navbar {
     width: 1360px;
     height: 73px;
@@ -110,6 +115,8 @@
     width: 220px;
     height: 36px;
     background-color: #EDEFF2;
+    border-style: none;
+    border-radius: 4px;
 }
 .grid-2 {
     width: 227px;
@@ -130,6 +137,8 @@
     width: 220px;
     height: 36px;
     background-color: #EDEFF2;
+    border-style: none;
+    border-radius: 4px;
 }
 
 .first-second {
@@ -158,6 +167,8 @@
     width: 364px;
     height: 36px;
     background-color: #EDEFF2;
+    border-style: none;
+    border-radius: 4px;
 }
 
 .payment-session {
@@ -196,6 +207,57 @@
 .payment-card input {
     width: 475px;
     height: 36px;
+    background-color:  #EDEFF2;
+    border-style: none;
+}
+
+.buy-pusher {
+    width: 483px;
+    height: 146.1px;
+    margin-left: 2.5rem;
+    margin-top: 2.12rem;
+}
+
+.buy-pusher input {
+    width: 483px;
+    height: 52px;
+    background-color: #038E7D;
+    color: white;
+    font-family: "lato", sans-serif;
+    font-size: 18px;
+    line-height: 21.6px;
+    letter-spacing: -0.4px;
+    text-align: center;
+    border-style: none;
+    border-radius: 4px;
+}
+
+.help p {
+    width: 303px;
+    height: 16px;
+    margin:1rem auto;
+    font-family: "lato", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.8px;
+    letter-spacing: -0.01px;
+}
+
+.help p span {
+    border: 1px solid;
+    border-radius: 100%;
+}
+
+.powered {
+    width: 100px;
+    height: 20.1px;
+    letter-spacing: -0.8px;
+    word-spacing: -0.8px;
+    margin: 1rem auto;
+    background-color: #DADADA;
+    border-radius: 4px;
+    border: 1px;
+    
 }
 
 /* section 2 */
