@@ -363,3 +363,21 @@ hr {
     height: 20px;
     margin-top: 1px;
 }
+
+.inner-3 {
+    width: 200px;
+    height: 51px;
+    margin-top: 2.5rem;
+    font-family: "lato", sans-serif;
+}
+
+.inner-3 span {
+    font-weight: 600;
+}
+
+.inner-3 .p2 {
+    font-weight: 600;
+    text-decoration: underline;
+    letter-spacing: -0.01px;
+    line-height: 19.2px;
+}
