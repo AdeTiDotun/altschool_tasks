@@ -381,3 +381,21 @@ hr {
     letter-spacing: -0.01px;
     line-height: 19.2px;
 }
+
+.inner-4 {
+    width: 229px;
+    height: 196px;
+    margin-top: 2.5rem;
+}
+
+.inner-4 .p1 {
+    width: 225px;
+    height: 96px;
+    margin-top: 43px;
+    margin-left: 2px;
+    font-family: "lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 24px;
+}
