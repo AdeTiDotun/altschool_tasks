@@ -343,3 +343,23 @@ hr {
     line-height: 24px;
     letter-spacing: -0.01px;
 }
+
+.inner-2 {
+    width: 170px;
+    height: 96px;
+    margin-top: 2.5rem;
+}
+
+.inner p {
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.01px;
+}
+
+.inner-2 p span {
+    width: 20px;
+    height: 20px;
+    margin-top: 1px;
+}
