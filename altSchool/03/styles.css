@@ -264,4 +264,69 @@ hr {
 .section-2 {
     width: 312px;
     height: 795px;
+    /* background-color: #1179BF; */
+    border-radius: 0px, 6px, 6px, 0px;
+}
+
+.inner {
+    width: 231px;
+    height: 610px;
+    margin: 2.5rem;
+}
+
+.inner-1 {
+    width: 231px;
+    height: 152px;
+}
+
+.inner-1 .freelancer {
+    width: 99px;
+    height: 24px;
+    margin:0 0 0 2px;
+    
+    font-family: "lato", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.01px;
+}
+
+.dollar {
+    width: 140px;
+    height: 72px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 0;
+}
+
+.dollar-div {
+    width: 14px;
+    height: 29px;
+    font-family: "lato", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.8px;
+    letter-spacing: -0.01px;
+    /* color: #FFFFFF; */
+}
+
+.dollar99 {
+    width: 121px;
+    height: 72px;
+}
+
+.dollar99 .span1 {
+    font-family: "lato", sans-serif;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.01px;
+}
+
+.dollar .span2 {
+    font-family: "lato", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21.6px;
+    letter-spacing: -0.01px;
 }
