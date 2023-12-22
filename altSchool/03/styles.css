@@ -389,7 +389,7 @@ hr {
 }
 
 .inner-4 .p1 {
-    width: 225px;
+    width: 227px;
     height: 96px;
     margin-top: 43px;
     margin-left: 2px;
@@ -398,4 +398,27 @@ hr {
     font-style: italic;
     font-size: 18px;
     line-height: 24px;
+}
+
+.kirk-beard {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin-top: 2.12rem;
+}
+
+.kirk {
+    width: 76px;
+    height: 19px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: -0.01px;
+    
+}
+
+.kirk-img {
+    width: 40px;
+    height: 40px;
+    margin-top: 8px;
 }
