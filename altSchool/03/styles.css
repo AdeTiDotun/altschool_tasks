@@ -264,7 +264,8 @@ hr {
 .section-2 {
     width: 312px;
     height: 795px;
-    /* background-color: #1179BF; */
+    background-color: #1179BF;
+    color: white;
     border-radius: 0px, 6px, 6px, 0px;
 }
 
@@ -272,6 +273,11 @@ hr {
     width: 231px;
     height: 610px;
     margin: 2.5rem;
+}
+
+.ftp {
+    width: 231px;
+    height: 1px;
 }
 
 .inner-1 {
@@ -305,10 +311,9 @@ hr {
     height: 29px;
     font-family: "lato", sans-serif;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 28.8px;
     letter-spacing: -0.01px;
-    /* color: #FFFFFF; */
 }
 
 .dollar99 {
@@ -421,4 +426,16 @@ hr {
     width: 40px;
     height: 40px;
     margin-top: 8px;
+}
+
+.last-session {
+    width: 867px;
+    height: 17px;
+    margin: 2.12rem auto; 
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.8px;
+    text-align: center;
+
 }
