@@ -7,3 +7,9 @@ Day 4
 Multiple file transfer and requests;
 Why CSS actually called cascading style sheet;
 Adding of links and google fonts.
+
+Day 5
+Dived into how HTML and CSS handles whitespaces;
+How to add an image;
+How to add a second or multiple HTML file;
+How to link and use an external CSS file;
