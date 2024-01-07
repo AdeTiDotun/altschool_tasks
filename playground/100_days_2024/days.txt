@@ -20,3 +20,9 @@ The development and the server;
 Working with list;
 Understanding parent, children, container and more;
 Inheritance and Specificity;
+
+Day 7
+Didnt do much toady;
+Studied the CSS box model;
+Selcetors and combinators;
+Inline and block elements;
