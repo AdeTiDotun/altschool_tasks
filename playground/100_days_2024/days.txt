@@ -26,3 +26,9 @@ Didnt do much toady;
 Studied the CSS box model;
 Selcetors and combinators;
 Inline and block elements;
+
+Day 8
+A busy day for me;
+Got more inclined with understanding margin collapse;
+A little bit on box shadow;
+Attended the first town hall meeting for Altschool africa;
