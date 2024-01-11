@@ -32,3 +32,15 @@ A busy day for me;
 Got more inclined with understanding margin collapse;
 A little bit on box shadow;
 Attended the first town hall meeting for Altschool africa;
+
+Day 9 - 10
+Project based!
+Html and CSS summary!
+
+Day 11
+A bright and good day!
+Deploying and Hosting of our websites;
+Get familair with Netlify drag and drop;
+Favicon;
+Relative VS Absolute paths;
+Brief Introduction of Git and Github;
