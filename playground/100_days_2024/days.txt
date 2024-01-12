@@ -44,3 +44,7 @@ Get familair with Netlify drag and drop;
 Favicon;
 Relative VS Absolute paths;
 Brief Introduction of Git and Github;
+
+Day 12
+Went in-dept into git;
+Mostly familair with the command line interface. 
