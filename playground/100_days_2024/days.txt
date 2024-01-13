@@ -48,3 +48,9 @@ Brief Introduction of Git and Github;
 Day 12
 Went in-dept into git;
 Mostly familair with the command line interface. 
+
+
+Day 13
+more understanding of branches, merging and fixing;
+why and what of github;
+more on arrow functions;
