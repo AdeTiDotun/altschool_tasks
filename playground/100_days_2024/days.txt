@@ -54,3 +54,9 @@ Day 13
 more understanding of branches, merging and fixing;
 why and what of github;
 more on arrow functions;
+
+Day 1
+Religious day;
+Nothing much was really done;
+More on github contribution and pull requests;
+Studied more on array methods;
