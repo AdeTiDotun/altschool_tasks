@@ -55,8 +55,14 @@ more understanding of branches, merging and fixing;
 why and what of github;
 more on arrow functions;
 
-Day 1
+Day 14
 Religious day;
 Nothing much was really done;
 More on github contribution and pull requests;
 Studied more on array methods;
+
+Day 15
+Back to coding;
+Project Overveiw: Positioning and Layouts;
+Adding the page logo and navigation bar;
+CSS flexbox;
