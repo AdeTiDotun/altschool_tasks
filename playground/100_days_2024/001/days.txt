@@ -66,3 +66,8 @@ Back to coding;
 Project Overveiw: Positioning and Layouts;
 Adding the page logo and navigation bar;
 CSS flexbox;
+
+Day 16 - 18
+Worked more on the styling of the landing page;
+Used CSS functions(linear gradient);
+Studied more on methods;
