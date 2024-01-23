@@ -1,3 +1,5 @@
+/* Hero Session */
+
 #hero {
   height: 800px;
   background-image: url(/playground/100_days_2024/02-travel-goals/images/ocean.jpg);
@@ -40,4 +42,9 @@
 
 #hero-content a:hover {
     background-color: rgb(170, 170, 9);
+}
+
+/* Highlight session */
+#highlight h2 {
+    text-transform: capitalize;
 }
