@@ -5,6 +5,7 @@ body {
     background-color: rgb(44, 41, 38);
 }
 
-#logo {
-
+header {
+    height: 80px;
+    background-color: rgb(29, 26, 24);
 }
