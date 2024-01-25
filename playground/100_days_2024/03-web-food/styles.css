@@ -38,12 +38,12 @@ nav a {
     text-transform: capitalize;
     color: rgb(228, 163, 44);
     margin: 0 14px;
-    padding: 1px 2px;
 }
 
 nav a:hover {
     color: black;
     background-color: rgb(228, 163, 44);
+    padding: 2px 4px;
 }
 
 /* main session */
@@ -53,4 +53,24 @@ h1 {
     font-size: 40px;
     color: rgb(238, 164, 80);
     text-transform: capitalize;
+}
+
+#meal-section {
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 50px auto;
+    gap: 32px;
+}
+
+.food-items {
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    background-color: rgb(228, 206, 182);
+}
+
+.food-items img {
+    width: 100%;
+    height: 400px;   
 }
