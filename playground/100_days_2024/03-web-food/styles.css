@@ -62,7 +62,7 @@ h1 {
 }
 
 #meal-section {
-    width: 40%;
+    width: 50%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: 50px auto;
