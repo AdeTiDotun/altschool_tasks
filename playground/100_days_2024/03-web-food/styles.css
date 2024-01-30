@@ -84,7 +84,8 @@ h1 {
 
 .food-items img {
     width: 100%;
-    height: 12.5rem;   
+    height: 12.5rem;  
+    object-fit: cover; 
 }
 
 .food-items .btn {
@@ -92,4 +93,21 @@ h1 {
     color: white;
     padding: 0.38rem 0.75rem;
     border-radius: 0.38rem;
+}
+
+@media (max-width: 768px) {
+    #meal-section {
+        width: 50%;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    nav {
+        display: none;
+    }
+    
 }
