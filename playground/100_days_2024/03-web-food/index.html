@@ -1,50 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>WebFood</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap"
       rel="stylesheet"
     />
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <a id="logo" href="index.html"> webfood</a>
+      <a id="logo" href="index.html"> webfood</a>
+      <nav id="nav-bar">
+        <ul>
+          <li><a href="">browse meal</a></li>
+          <li><a href="">my orders</a></li>
+        </ul>
+      </nav>
+      <a href="#side-drawer" class="btn-side">
+        <span><hr /></span>
+        <span><hr /></span>
+        <span><hr /></span>
+      </a>
+    </header>
+    <aside id="side-drawer">
         <nav>
             <ul>
                 <li><a href="">browse meal</a></li>
                 <li><a href="">my orders</a></li>
-            </ul>
+              </ul>
         </nav>
-        <a href="" class="btn-side">
-            <span><hr></span>
-            <span><hr></span>
-            <span><hr></span>
-        </a>
-    </header>
+    </aside>
     <main>
-        <h1>browse our delicious meal</h1>
-        <div id="meal-section">
-            <section>
-                <article class="food-items">
-                    <img src="images/risotto.jpg" alt="rissoto with pawns">
-                    <h2>rissoto with tiger pawns</h2>
-                    <a class="btn" href="">Add to Cart</a>
-                </article>
-            </section>
-            <section>
-                <article class="food-items">
-                    <img src="images/cheeseburgers.jpg" alt="cheeseburgers">
-                    <h2>cheeseburgers</h2>
-                    <a class="btn" href="">Add to Cart</a>
-                </article>
-            </section>
-        </div>
-       
+      <h1>browse our delicious meal</h1>
+      <div id="meal-section">
+        <section>
+          <article class="food-items">
+            <img src="images/risotto.jpg" alt="rissoto with pawns" />
+            <h2>rissoto with tiger pawns</h2>
+            <a class="btn" href="">Add to Cart</a>
+          </article>
+        </section>
+        <section>
+          <article class="food-items">
+            <img src="images/cheeseburgers.jpg" alt="cheeseburgers" />
+            <h2>cheeseburgers</h2>
+            <a class="btn" href="">Add to Cart</a>
+          </article>
+        </section>
+      </div>
+      
     </main>
-</body>
+  </body>
 </html>
