@@ -15,18 +15,19 @@ header {
     padding: 0 3.13rem;
 }
 
-.btn {
+.btn-side {
     width: 3rem;
     height: 3rem;
+    display: none;
 }
 
-.btn span {
+.btn-side span {
     width: 100%;
     height: 100%;
     color: white;
 }
 
-.btn span hr {
+.btn-side span hr {
     margin: 0.7rem 0;
 }
 
@@ -123,6 +124,10 @@ h1 {
 
     nav {
         display: none;
+    }
+
+    .btn-side {
+        display: block;
     }
     
 }
