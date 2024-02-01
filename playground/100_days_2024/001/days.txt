@@ -90,3 +90,7 @@ Day 30 - 31
 Hamburger button;
 Side drawer to the website;
 Z-index;
+
+Day 32 
+It's a new month;
+Concept of creating beautiful websites through analysing of designs;
