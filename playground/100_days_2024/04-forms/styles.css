@@ -1,0 +1,31 @@
+body {
+    margin: 16rem;
+    background-color: rgba(82, 74, 74, 0.986);
+}
+
+form {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 6px;
+    width: 30rem;
+}
+
+input {
+    display: block;
+    width: 30rem;
+    padding: 0.5rem 0;
+    margin: 0.5rem 0;
+}
+
+button {
+    display: block;
+    width: 6rem;
+    height: 2rem;
+    background-color: rgb(216, 75, 216);
+    cursor: pointer;
+    color: white;
+}
+
+button:hover {
+    background-color: purple;
+}
