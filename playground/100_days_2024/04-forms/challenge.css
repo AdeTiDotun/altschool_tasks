@@ -4,6 +4,8 @@ body {
 
 header {
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 main {
@@ -45,4 +47,14 @@ select {
 
 .radio-button label {
     padding: 0.3rem 0;
+}
+
+#button {
+    text-align: end;  
+    margin: 0.5rem 0;
+}
+
+button {
+    color: white;
+    background-color: blueviolet;
 }
