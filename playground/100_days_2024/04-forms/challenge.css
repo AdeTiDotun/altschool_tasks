@@ -1,7 +1,48 @@
 body {
-    background-color: aliceblue;
+    background-color: azure;
 }
 
 header {
     text-align: center;
+}
+
+main {
+    background-color: aliceblue;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+input {
+    display: block;
+    width: 100%;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0;
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    margin: 0.5rem 0;
+}
+
+select {
+    display: block;
+    width: 100%;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0;
+}
+
+.radio-button {
+    display: flex;
+}
+
+.radio-button input {
+    width: auto;
+    margin: 0;
+    margin-right: 0.5rem;
+}
+
+.radio-button label {
+    padding: 0.3rem 0;
 }

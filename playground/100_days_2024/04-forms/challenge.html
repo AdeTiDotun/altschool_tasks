@@ -1,19 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Forms Challenge</title>
-    <link rel="stylesheet" href="challenge.css">
-</head>
-<body>
+    <link rel="stylesheet" href="challenge.css" />
+  </head>
+  <body>
     <header>
-        <h1>Contact Us</h1>
+      <h1>Contact Us</h1>
     </header>
     <main>
-        <form action="">
-            
-        </form>
+      <h2>How can we help you?</h2>
+      <form action="">
+        <label for="user-name">Your Name</label>
+        <input type=" text" name="username" id="user-name" />
+
+        <label for="user-email">Your E-Mail Address</label>
+        <input type="email" name="mail" id="user-email" />
+
+        <label for="user-number">Your Phone Number</label>
+        <input type="number" name="phone" id="user-number" />
+
+        <label for="user-message">Your Message</label>
+        <textarea
+          name="message"
+          id="user-message"
+          cols="3"
+          rows="10"
+        ></textarea>
+
+        <label for="drop-down">How did you find us?</label>
+        <select name="find-us" id="drop-down">
+          <option value="">Web Search</option>
+          <option value="">Social Media</option>
+        </select>
+
+        <h2>How should we reply?</h2>
+
+        <div class="radio-button">
+            <input type="radio" id="call-me" name="radio" value="phone" />
+            <label for="call-me">Call me</label>
+        </div>
+
+        <div class="radio-button">
+            <input type="radio" id="e-mail" name="radio" value="email" />
+            <label for="e-mail">Mail me</label>
+        </div>
+
+        <div class="radio-button">
+            <input type="radio" id="sms-me" name="radio" value="text" />
+            <label for="sms-me">SMS</label>
+        </div>
+      </form>
     </main>
-</body>
+  </body>
 </html>
