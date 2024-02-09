@@ -94,3 +94,8 @@ Z-index;
 Day 32 
 It's a new month;
 Concept of creating beautiful websites through analysing of designs;
+
+Day 32 - 39
+literally forgot to update at this point;
+Electricity shege!
+moved to Javascript;
