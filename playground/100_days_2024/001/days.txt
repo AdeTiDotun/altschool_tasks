@@ -99,3 +99,7 @@ Day 32 - 39
 literally forgot to update at this point;
 Electricity shege!
 moved to Javascript;
+
+Day 40 - 41
+A whole lot of focus on Javascript and Alschool at this point...a lot at stake!
+still riding tho;
