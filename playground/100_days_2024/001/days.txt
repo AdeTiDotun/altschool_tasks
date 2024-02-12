@@ -103,3 +103,7 @@ moved to Javascript;
 Day 40 - 41
 A whole lot of focus on Javascript and Alschool at this point...a lot at stake!
 still riding tho;
+
+Day 42 - 43
+Changed my learning strategy for Javascript 
+all concentration now on lms and alschool classes!
