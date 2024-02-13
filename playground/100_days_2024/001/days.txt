@@ -107,3 +107,6 @@ still riding tho;
 Day 42 - 43
 Changed my learning strategy for Javascript 
 all concentration now on lms and alschool classes!
+
+Day 44
+Started studying on prototypes!
