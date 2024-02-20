@@ -110,3 +110,6 @@ all concentration now on lms and alschool classes!
 
 Day 44
 Started studying on prototypes!
+Day 45 -46
+Studied prototypes more;
+Startedlearning about test in javascript;
