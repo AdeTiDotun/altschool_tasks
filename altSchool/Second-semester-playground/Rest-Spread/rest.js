@@ -8,4 +8,14 @@ function add(a, b, ...rest) {
 }
 
 console.log(add(1, 2, 4, 5, 6, 10));
-   
+
+// Destructuring of Data
+
+let obj = {
+    name: "Dan",
+    job: "Developer"
+}
+
+const {name, job} = obj;
+console.log(name);
+console.log (job)
