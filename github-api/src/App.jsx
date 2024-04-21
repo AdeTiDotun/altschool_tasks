@@ -1,14 +1,14 @@
-import { useState } from "react";
-import "./App.css";
+
+import './App.css'
+import Navbar from "./navbar"
 import images from "./images/github-logo.png";
-import Home from "./home.jsx";
-import Navbar from "./navbar.jsx";
+import Home from "./pages/home.jsx"
 
 function App() {
   return (
     <>
-      <Navbar />
-      <Home />
+    <Navbar />
+    <Home />
     </>
   );
 }
