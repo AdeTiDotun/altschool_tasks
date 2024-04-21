@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* Navbar Session */
+nav {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid;
+  text-align: center;
+}
+
+.logo {
+  padding-left: 20px;
+}
+
+ img {
+  height: 50px;
+  width: 50px;
+} 
+
+nav h2 {
+  margin: 0;
+  text-align: center;
+} 
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  font: bold;
+  margin-right: 50px;
+}
+
+ul,li{
+  list-style: none;
+  padding : 5px;
+  text-decoration: none;
+  text-align: center;
+  margin-right: 30px;
+}
+
+ul,li,a{
+  text-decoration: none;
+  color:rgb(29, 28, 28);
+  font-size: 25px;
+}
+
+/* Home Repo Session  */
+
+.repo-container {
+  border: 1px solid;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  padding: 20px;
+}
+
+.repo-card {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 8px;
+}
+
